@@ -1,3 +1,3 @@
 # JenkinsGitTrigger
 
-jenkins
+jenkins jobs trigger on commit
